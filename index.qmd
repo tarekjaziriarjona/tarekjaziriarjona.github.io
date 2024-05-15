@@ -7,9 +7,11 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - text: Twitter
+    - icon: twitter
+      text: Twitter
       href: https://www.x.com/tarekjaziri/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/tarekjaziriarjona
     - text: Email
       href: mailto:tarek.jaziriarjona@eui.eu
