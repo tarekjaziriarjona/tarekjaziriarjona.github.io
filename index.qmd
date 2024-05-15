@@ -10,7 +10,8 @@ about:
     - icon: twitter
       text: Twitter
       href: https://www.x.com/tarekjaziri/
-    - text: "{{< ai google-scholar >}}"
+    - icon: "{{< ai google-scholar >}}"
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=UDPjzgoAAAAJ&hl=en&oi=ao
     - icon: github
       text: GitHub
