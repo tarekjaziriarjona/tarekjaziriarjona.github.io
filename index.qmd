@@ -1,6 +1,6 @@
 ---
 title: "Tarek Jaziri-Arjona"
-image: media/tarek.jpg
+image: media/tarek.jpeg
 toc: false
 about: 
   template: trestles
