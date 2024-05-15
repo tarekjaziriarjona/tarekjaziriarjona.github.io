@@ -8,13 +8,10 @@ about:
   image-width: 20em
   links:
     - icon: twitter
-      text: Twitter
       href: https://www.x.com/tarekjaziri/
-    - icon: "{{< ai google-scholar >}}"
-      text: Google Scholar
+    - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.com/citations?user=UDPjzgoAAAAJ&hl=en&oi=ao
     - icon: github
-      text: GitHub
       href: https://github.com/tarekjaziriarjona
     - text: Email
       href: mailto:tarek.jaziriarjona@eui.eu
