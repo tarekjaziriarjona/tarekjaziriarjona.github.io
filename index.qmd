@@ -1,3 +1,16 @@
 ---
 title: "Tarek Jaziri-Arjona"
+image: media/tarek.jpg
+toc: false
+about: 
+3  template: trestles
+4  image-shape: round
+  image-width: 20em
+5  links:
+    - text: Twitter
+      href: https://www.x.com/tarekjaziri/
+    - text: GitHub
+      href: https://github.com/tarekjaziriarjona
+    - text: Email
+      href: mailto:tarek.jaziriarjona@eui.eu
 ---
