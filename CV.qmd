@@ -9,3 +9,7 @@ title: "CV"
 ```{=html}
 {{< pdf media/CV-2024.pdf width=100% >}}
 ```
+```         
+<object data="/media/CV-2024.pdf" type="application/pdf" width="100%"> 
+</object>
+```
