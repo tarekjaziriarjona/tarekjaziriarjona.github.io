@@ -3,13 +3,5 @@ title: "CV"
 ---
 
 ```         
-{{< pdf media/CV-2024.pdf width=100% >}}
-```
-
-```{=html}
-{{< pdf media/CV-2024.pdf width=100% >}}
-```
-```         
-<object data="/media/CV-2024.pdf" type="application/pdf" width="100%"> 
-</object>
+![](media/CV-2024.pdf)
 ```
