@@ -39,6 +39,6 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "![](media/CV-2024.pdf)"
+    "text": "&lt;p&gt;&lt;embed src=\"media/CV-2024.pdf\" style=\"width:100.0%\" /&gt;&lt;/p&gt;"
   }
 ]

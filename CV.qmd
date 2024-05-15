@@ -3,5 +3,5 @@ title: "CV"
 ---
 
 ```         
-![](media/CV-2024.pdf)
+<p><embed src="media/CV-2024.pdf" style="width:100.0%" /></p>
 ```
