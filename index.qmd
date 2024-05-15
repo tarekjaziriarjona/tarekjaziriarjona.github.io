@@ -16,3 +16,7 @@ about:
     - text: Email
       href: mailto:tarek.jaziriarjona@eui.eu
 ---
+
+Hi! I’m a Ph.D. candidate at the [EUI](https://www.eui.eu/en/home), where I focus on political behavior, social networks and new parties. I’ve had the privilege of visiting institutions like [NYU](https://as.nyu.edu/departments/politics.html) and the [LSE](https://www.lse.ac.uk/government). I hold an M.A. in Social Sciences from the [IC3JM](https://ic3jm.es/en/) and a B.A. in Sociology & Political Science from the same university.
+
+My research is driven by an interest in political behavior, social norms, networks and political parties. I am currently working on the emergence of new parties, the spread of social norms, the gender gap in voting for green parties and the electoral consequences of policies, such as the enfranchisement of immigrants or water restrictions during a drought.
