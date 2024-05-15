@@ -1,3 +1,73 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+cv:
+  pdf: "media/CV-2024.pdf"
 ---
+
+```{css, echo=FALSE}
+
+#title-block-header .title {
+    display: none;
+}
+
+#title-block-header .description {  /* Adapt based on the actual class or ID */
+    color: white;
+    font-size: 1.7em;  /* Adjust as needed */ 
+    font-weight: bold;  /* Makes the text bold */
+}
+
+```
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<style>
+  .btn-black {
+    background-color: #464646;
+    color: white;
+  }
+</style>
+
+<p class="text-center">
+  <a class="btn btn-lg btn-black cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
+  </a>
+</p>
+
+<style>
+  .embed-container {
+    text-align: center;
+    width: 180%;  /* Adjust as needed */
+    margin: auto;  /* Centers the container */
+  }
+
+  .embed-container iframe {
+    width: 100%;  /* Takes the full width of its parent container */
+    height: 1400px;  /* Adjust as needed */
+    border: 0.5px;
+  }
+</style>
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
+
+```
