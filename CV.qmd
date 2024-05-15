@@ -5,3 +5,7 @@ title: "CV"
 ```         
 {{< pdf media/CV-2024.pdf width=100% >}}
 ```
+
+```{=html}
+{{< pdf media/CV-2024.pdf width=100% >}}
+```
