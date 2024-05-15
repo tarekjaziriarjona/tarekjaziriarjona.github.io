@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
       - CV.qmd
 
 format:
   html:
-    theme: morph
+    theme: cosmo
     css: styles.css
     toc: true
     page-layout: full
