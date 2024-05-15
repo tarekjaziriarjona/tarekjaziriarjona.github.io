@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+engine: knitr 
 cv:
   pdf: "media/CV-2024.pdf"
 ---
