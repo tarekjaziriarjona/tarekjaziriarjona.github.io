@@ -8,22 +8,14 @@ title: "Research"
 
 ### Working Projects
 
-<<<<<<< HEAD
--   From Early to Late Supporters: Household Dynamics, Holidays, and the Emergence of New Political Parties **\[Under Review\]**
-=======
--   From Early to Late Supporters: Education, Social Networks and the Emergence of New Political Parties **[Under Review]**
->>>>>>> 84fc6460956b9cb3e279fa2bde71bd41ab8fc076
+-   From Early to Late Supporters: Education, Social Networks and the Emergence of New Political Parties **\[Under Review\]**
 
 -   Mobility, Reference Group Change, and the Spread of Political Norms: How Summer Holidays normalize the Radical Right in Spain (with [Vicente Valentim](https://www.vicentevalentim.com))
 
-<<<<<<< HEAD
 -   Economic Insecurity and Far Right Support: Social Relationships as Buffers or Catalysts (with [Jona De Jong](https://jonadejong.wordpress.com))
-=======
--   Economic Insecurity and Far Right Support: Social Relationships as Buffers or Catalysts (with Jona De Jong)
->>>>>>> 84fc6460956b9cb3e279fa2bde71bd41ab8fc076
 
 -   Local Female Political Representation and the Gender Gap in Voting for the Greens (with [Ingvild Zinober](https://www.eui.eu/people?id=ingvild-zinober))
 
 -   No rain in sight - The electoral effect of water restrictions in France (with [Nina Lopez-Uroz](https://me.eui.eu/nina-lopez-uroz/) & [Rens Chazottes](https://scholar.google.com/citations?user=hxKSQHoAAAAJ&hl=fr))
 
--   The Electoral Consequences of Immigrants Enfranchasiment (with [Simon Hix](https://simonhix.com))
+-   The Electoral Consequences of Immigrants Enfranchisement (with [Simon Hix](https://simonhix.com))
