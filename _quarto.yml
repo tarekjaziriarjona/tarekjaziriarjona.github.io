@@ -1,19 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "tarekjaziriarjona.github.io"
   navbar:
+    title: "Tarek Jaziri-Arjona"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - CV.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: full
