@@ -6,11 +6,11 @@ title: "Research"
 
 -   **Jaziri-Arjona, T.** (2021). *Las brechas electorales generacional y urbano-rural en el voto a Vox.* In Oliván Navarro, F. (Eds.), [El toro por los cuernos: Vox, la extrema derecha europea y el voto obrero.](https://www.tecnos.es/libro/semilla-y-surco/el-toro-por-los-cuernos-vox-la-extrema-derecha-europea-y-el-voto-obrero-fidel-olivan-navarro-9788430981212/) Tecnos.
 
-### Working Projects
+### Working Papers
 
 -   From Early to Late Supporters: Education, Social Networks and the Emergence of New Political Parties **\[Under Review\]**
 
--   Mobility, Reference Group Change, and the Spread of Political Norms: How Summer Holidays normalize the Radical Right in Spain (with [Vicente Valentim](https://www.vicentevalentim.com))
+-   Short-Term Mobility and Changes in Political Norms: Summer Holidays and the Radical-Right in Spain (with [Vicente Valentim](https://www.vicentevalentim.com))
 
 -   Economic Insecurity and Far Right Support: Social Relationships as Buffers or Catalysts (with [Jona De Jong](https://jonadejong.wordpress.com))
 
@@ -18,4 +18,10 @@ title: "Research"
 
 -   No rain in sight - The electoral effect of water restrictions in France (with [Nina Lopez-Uroz](https://me.eui.eu/nina-lopez-uroz/) & [Rens Chazottes](https://scholar.google.com/citations?user=hxKSQHoAAAAJ&hl=fr))
 
+### Working Projects
+
 -   The Electoral Consequences of Immigrants Enfranchisement (with [Simon Hix](https://simonhix.com))
+
+-   Call me Mr. President: The social consequences of electing a female radical-right leader (with [Francesca Bramucci](https://www.google.com/search?client=safari&rls=en&q=bramucci+fra&ie=UTF-8&oe=UTF-8) and [Vicente Valentim](https://www.vicentevalentim.com))
+
+-   The diffusion of anti-immigration discourse among British MP's on Twitter (with [Janice Butler](https://www.eui.eu/people?id=janice-butler))
