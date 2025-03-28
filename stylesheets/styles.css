@@ -268,3 +268,8 @@ footer {
     color:#444;
   }
 }
+
+/* Spacing for list items in ordered lists */
+ol li {
+  margin-bottom: 10px;
+}
