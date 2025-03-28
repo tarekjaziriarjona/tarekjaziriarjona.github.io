@@ -23,50 +23,50 @@
     <a href="mailto:tarek.jaziriarjona@eui.eu">tarek.jaziriarjona@eui.eu</a>
   </p>
 
-  <!-- Icons -->
-<ul style="
-  list-style: none; 
-  margin: 0; 
-  padding: 0; 
-  display: flex; 
-  gap: 1px;               /* Closer spacing between icons */
-  background: none; 
-  border: none; 
-  width: auto; 
-  height: auto;
+<!-- Container for icons (no <ul> / <li>) -->
+<div style="
+  display: inline-flex;
+  align-items: center;
+  gap: 2px; /* Minimal gap between icons */
+  margin: 0;
+  padding: 0;
 ">
   <!-- Google Scholar icon -->
-  <li style="margin: 0; padding: 0; border: none;">
-    <a href="https://scholar.google.com/citations?user=UDPjzgoAAAAJ&hl=en" target="_blank">
-      <img src="images/scholar.png" alt="Google Scholar" style="width:25px; height:auto;">
-    </a>
-  </li>
+  <a href="https://scholar.google.com/citations?user=UDPjzgoAAAAJ&hl=en" 
+     target="_blank"
+     style="margin: 0; padding: 0; text-decoration: none;">
+    <img src="images/scholar.png" alt="Google Scholar" 
+         style="width:25px; height:auto; display:block;">
+  </a>
+
   <!-- Bluesky icon -->
-  <li style="margin: 0; padding: 0; border: none;">
-    <a href="https://bsky.app/profile/tarekjaziri.bsky.social" target="_blank">
-      <img src="images/bluesky.svg.png" alt="Bluesky" style="width:25px; height:auto;">
-    </a>
-  </li>
+  <a href="https://bsky.app/profile/tarekjaziri.bsky.social" 
+     target="_blank"
+     style="margin: 0; padding: 0; text-decoration: none;">
+    <img src="images/bluesky.svg.png" alt="Bluesky" 
+         style="width:25px; height:auto; display:block;">
+  </a>
+
   <!-- CV “button” -->
-  <li style="margin: 0; padding: 0; border: none;">
-    <a href="CV/Tarek_Jaziri_CV.pdf" target="_blank" style="text-decoration: none;">
-      <span style="
-        display:inline-block; 
-        width:25px; 
-        height:25px; 
-        background:#1b95e0;  
-        color:#fff; 
-        border-radius:3px; 
-        text-align:center; 
-        line-height:16px; 
-        font-weight:bold;
-        font-size:18px;
-      ">
-        cv
-      </span>
-    </a>
-  </li>
-</ul>
+  <a href="CV/Tarek_Jaziri_CV.pdf" 
+     target="_blank"
+     style="margin: 0; padding: 0; text-decoration: none;">
+    <span style="
+      display:inline-block; 
+      width:25px; 
+      height:25px; 
+      background:#1b95e0;  
+      color:#fff; 
+      border-radius:3px; 
+      text-align:center; 
+      line-height:25px; 
+      font-weight:bold;
+      font-size:14px;
+    ">
+      CV
+    </span>
+  </a>
+</div>
 </header>
       <section>
         <h1>GitHub Flavored Markdown</h1>
@@ -174,67 +174,6 @@ end
     &amp;copy; 2004 Foo Corporation
 &lt;/div&gt;
 </code></pre>
-
-        <h2>Set in stone</h2>
-
-        <p>Preformatted blocks are useful for ASCII art:</p>
-
-        <pre>             ,-.
-    ,     ,-.   ,-.
-   / \   (   )-(   )
-   \ |  ,.&gt;-(   )-&lt;
-    \|,' (   )-(   )
-     Y ___`-'   `-'
-     |/__/   `-'
-     |
-     |
-     |    -hrr-
-  ___|_____________
-</pre>
-
-        <h2>Playing the blame game</h2>
-
-        <p>If you need to blame someone, the best way to do so is by quoting them:</p>
-
-        <blockquote>
-        <p>I, at any rate, am convinced that He does not throw dice.</p>
-        </blockquote>
-
-        <p>Or perhaps someone a little less eloquent:</p>
-
-        <blockquote>
-        <p>I wish you'd have given me this written question ahead of time so I<br>
-        could plan for it... I'm sure something will pop into my head here in<br>
-        the midst of this press conference, with all the pressure of trying to<br>
-        come up with answer, but it hadn't yet...</p>
-
-        <p>I don't want to sound like<br>
-        I have made no mistakes. I'm confident I have. I just haven't - you<br>
-        just put me under the spot here, and maybe I'm not as quick on my feet<br>
-        as I should be in coming up with one.</p>
-        </blockquote>
-
-        <h2>Table for two</h2>
-
-        <table>
-          <tbody>
-        <tr>
-            <th>ID</th>
-        <th>Name</th>
-        <th>Rank</th>
-          </tr>
-          <tr>
-            <td>1</td>
-        <td>Tom Preston-Werner</td>
-        <td>Awesome</td>
-          </tr>
-          <tr>
-            <td>2</td>
-        <td>Albert Einstein</td>
-        <td>Nearly as awesome</td>
-          </tr>
-        </tbody>
-        </table>
 
         <h2>Crazy linking action</h2>
 
